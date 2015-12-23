@@ -1,0 +1,21 @@
+.Papayawhip {
+	background-color: #ffefd5;
+}
+.HotPink {
+	background-color: #ff69b4;
+}
+.DarkOliveGreen {
+	background-color: #556b2f;
+}
+.BurlyWood {
+	background-color: #deb887;
+}
+.CadetBlue {
+	background-color: #5f9ea0;
+}
+.BlanchedAlmond {
+	background-color: #ffebcd;
+}
+table, th, td{
+	border: 1px double #ccc;
+}
